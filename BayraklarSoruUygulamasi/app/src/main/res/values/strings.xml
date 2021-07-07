@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BayraklarSoruUygulamasi</string>
+    <string name="giris_text">BAYRAK QUIZ</string>
+    <string name="giris_buttonText">BAŞLAT</string>
+</resources>
